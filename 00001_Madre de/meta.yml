@@ -4,6 +4,7 @@ layout: input_bottom
 editor: custom
 type: problem
 extra_visible: false
+language: gobstones
 manual_evaluation: false
 choices: []
 name: Madre de
