@@ -3,7 +3,8 @@ name: Demo Proyecto
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: prolog-blockly
 id_format: "%05d"
-order: []
+order:
+- 1
