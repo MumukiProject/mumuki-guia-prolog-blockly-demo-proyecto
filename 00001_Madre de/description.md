@@ -4,4 +4,4 @@ Alguien es Madre de otra persona, si existe la siguiente afirmación:
 madre(alguien, otraPersona)
 ```
 
-> Definií la condición `madre`.
+> Definí la condición `madre`.
